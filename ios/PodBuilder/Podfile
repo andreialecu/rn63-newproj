@@ -1,0 +1,43 @@
+rn_config = JSON.load(File.read("rn_config.json")) # pb added
+
+require_relative '../../node_modules/react-native/scripts/react_native_pods'
+require_relative '../../node_modules/@react-native-community/cli-platform-ios/native_modules'
+
+platform :ios, '10.0'
+use_frameworks!
+
+target 'ReactNativeStarter' do
+  use_native_modules!(rn_config) # pb added
+  # config = use_native_modules! # pb removed
+
+  use_react_native!(:path => rn_config["reactNativePath"]) # pb added
+  # use_react_native!(:path => config["reactNativePath"]) # pb removed
+
+  target 'ReactNativeStarterTests' do
+    inherit! :complete
+    # Pods for testing
+  end
+
+  # Enables Flipper.
+  #
+  # Note that if you have use_frameworks! enabled, Flipper will not work and
+  # you should disable these next few lines.
+  use_flipper!
+  post_install do |installer|
+    flipper_post_install(installer)
+  end
+end
+
+target 'ReactNativeStarter-tvOS' do
+  # Pods for ReactNativeStarter-tvOS
+
+  target 'ReactNativeStarter-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+end
+
+
+pre_install do |installer|
+  raise "\n🚨  Do not launch 'pod install' manually, use `pod_builder` instead!\n" if !File.exist?('pod_builder.lock')
+end

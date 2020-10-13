@@ -1,0 +1,1334 @@
+{
+  "root": "../..",
+  "reactNativePath": "../../node_modules/react-native",
+  "dependencies": {
+    "react-native-fast-image": {
+      "root": "../../node_modules/react-native-fast-image",
+      "name": "react-native-fast-image",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-fast-image/ios",
+          "folder": "../../node_modules/react-native-fast-image",
+          "pbxprojPath": "../../node_modules/react-native-fast-image/ios/FastImage.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-fast-image/RNFastImage.podspec",
+          "projectPath": "../../node_modules/react-native-fast-image/ios/FastImage.xcodeproj",
+          "projectName": "FastImage.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-fast-image/android",
+          "folder": "../../node_modules/react-native-fast-image",
+          "packageImportPath": "import com.dylanvann.fastimage.FastImageViewPackage;",
+          "packageInstance": "new FastImageViewPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "@astrocoders/react-native-selectable-text": {
+      "root": "../../node_modules/@astrocoders/react-native-selectable-text",
+      "name": "@astrocoders/react-native-selectable-text",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/@astrocoders/react-native-selectable-text/ios",
+          "folder": "../../node_modules/@astrocoders/react-native-selectable-text",
+          "pbxprojPath": "../../node_modules/@astrocoders/react-native-selectable-text/ios/RNSelectableText.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/@astrocoders/react-native-selectable-text/react-native-selectable-text.podspec",
+          "projectPath": "../../node_modules/@astrocoders/react-native-selectable-text/ios/RNSelectableText.xcodeproj",
+          "projectName": "RNSelectableText.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/@astrocoders/react-native-selectable-text/android",
+          "folder": "../../node_modules/@astrocoders/react-native-selectable-text",
+          "packageImportPath": "import com.astrocoders.selectabletext.RNSelectableTextPackage;",
+          "packageInstance": "new RNSelectableTextPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "@react-native-community/async-storage": {
+      "root": "../../node_modules/@react-native-community/async-storage",
+      "name": "@react-native-community/async-storage",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/@react-native-community/async-storage/ios",
+          "folder": "../../node_modules/@react-native-community/async-storage",
+          "pbxprojPath": "../../node_modules/@react-native-community/async-storage/ios/RNCAsyncStorage.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/@react-native-community/async-storage/RNCAsyncStorage.podspec",
+          "projectPath": "../../node_modules/@react-native-community/async-storage/ios/RNCAsyncStorage.xcodeproj",
+          "projectName": "RNCAsyncStorage.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/@react-native-community/async-storage/android",
+          "folder": "../../node_modules/@react-native-community/async-storage",
+          "packageImportPath": "import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;",
+          "packageInstance": "new AsyncStoragePackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "@react-native-community/clipboard": {
+      "root": "../../node_modules/@react-native-community/clipboard",
+      "name": "@react-native-community/clipboard",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/@react-native-community/clipboard/ios",
+          "folder": "../../node_modules/@react-native-community/clipboard",
+          "pbxprojPath": "../../node_modules/@react-native-community/clipboard/ios/RNCClipboard.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/@react-native-community/clipboard/RNCClipboard.podspec",
+          "projectPath": "../../node_modules/@react-native-community/clipboard/ios/RNCClipboard.xcodeproj",
+          "projectName": "RNCClipboard.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/@react-native-community/clipboard/android",
+          "folder": "../../node_modules/@react-native-community/clipboard",
+          "packageImportPath": "import com.reactnativecommunity.clipboard.ClipboardPackage;",
+          "packageInstance": "new ClipboardPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "@react-native-community/datetimepicker": {
+      "root": "../../node_modules/@react-native-community/datetimepicker",
+      "name": "@react-native-community/datetimepicker",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/@react-native-community/datetimepicker/ios",
+          "folder": "../../node_modules/@react-native-community/datetimepicker",
+          "pbxprojPath": "../../node_modules/@react-native-community/datetimepicker/ios/RNDateTimePicker.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/@react-native-community/datetimepicker/RNDateTimePicker.podspec",
+          "projectPath": "../../node_modules/@react-native-community/datetimepicker/ios/RNDateTimePicker.xcodeproj",
+          "projectName": "RNDateTimePicker.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/@react-native-community/datetimepicker/android",
+          "folder": "../../node_modules/@react-native-community/datetimepicker",
+          "packageImportPath": "import com.reactcommunity.rndatetimepicker.RNDateTimePickerPackage;",
+          "packageInstance": "new RNDateTimePickerPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "@react-native-community/masked-view": {
+      "root": "../../node_modules/@react-native-community/masked-view",
+      "name": "@react-native-community/masked-view",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/@react-native-community/masked-view/ios",
+          "folder": "../../node_modules/@react-native-community/masked-view",
+          "pbxprojPath": "../../node_modules/@react-native-community/masked-view/ios/RNCMaskedView.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/@react-native-community/masked-view/RNCMaskedView.podspec",
+          "projectPath": "../../node_modules/@react-native-community/masked-view/ios/RNCMaskedView.xcodeproj",
+          "projectName": "RNCMaskedView.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/@react-native-community/masked-view/android",
+          "folder": "../../node_modules/@react-native-community/masked-view",
+          "packageImportPath": "import org.reactnative.maskedview.RNCMaskedViewPackage;",
+          "packageInstance": "new RNCMaskedViewPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "@react-native-community/netinfo": {
+      "root": "../../node_modules/@react-native-community/netinfo",
+      "name": "@react-native-community/netinfo",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/@react-native-community/netinfo/ios",
+          "folder": "../../node_modules/@react-native-community/netinfo",
+          "pbxprojPath": "../../node_modules/@react-native-community/netinfo/ios/RNCNetInfo.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/@react-native-community/netinfo/react-native-netinfo.podspec",
+          "projectPath": "../../node_modules/@react-native-community/netinfo/ios/RNCNetInfo.xcodeproj",
+          "projectName": "RNCNetInfo.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/@react-native-community/netinfo/android",
+          "folder": "../../node_modules/@react-native-community/netinfo",
+          "packageImportPath": "import com.reactnativecommunity.netinfo.NetInfoPackage;",
+          "packageInstance": "new NetInfoPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "@react-native-community/toolbar-android": {
+      "root": "../../node_modules/@react-native-community/toolbar-android",
+      "name": "@react-native-community/toolbar-android",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/@react-native-community/toolbar-android/ios",
+          "folder": "../../node_modules/@react-native-community/toolbar-android",
+          "pbxprojPath": "../../node_modules/@react-native-community/toolbar-android/ios/RNCToolbarAndroid.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/@react-native-community/toolbar-android/toolbar-android.podspec",
+          "projectPath": "../../node_modules/@react-native-community/toolbar-android/ios/RNCToolbarAndroid.xcodeproj",
+          "projectName": "RNCToolbarAndroid.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/@react-native-community/toolbar-android/android",
+          "folder": "../../node_modules/@react-native-community/toolbar-android",
+          "packageImportPath": "import com.reactnativecommunity.toolbarandroid.ReactToolbarPackage;",
+          "packageInstance": "new ReactToolbarPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "amazon-cognito-identity-js": {
+      "root": "../../node_modules/amazon-cognito-identity-js",
+      "name": "amazon-cognito-identity-js",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/amazon-cognito-identity-js/ios",
+          "folder": "../../node_modules/amazon-cognito-identity-js",
+          "pbxprojPath": "../../node_modules/amazon-cognito-identity-js/ios/RNAWSCognito.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/amazon-cognito-identity-js/RNAWSCognito.podspec",
+          "projectPath": "../../node_modules/amazon-cognito-identity-js/ios/RNAWSCognito.xcodeproj",
+          "projectName": "RNAWSCognito.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/amazon-cognito-identity-js/android",
+          "folder": "../../node_modules/amazon-cognito-identity-js",
+          "packageImportPath": "import com.amazonaws.RNAWSCognitoPackage;",
+          "packageInstance": "new RNAWSCognitoPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "bugsnag-react-native": {
+      "root": "../../node_modules/bugsnag-react-native",
+      "name": "bugsnag-react-native",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/bugsnag-react-native/cocoa",
+          "folder": "../../node_modules/bugsnag-react-native",
+          "pbxprojPath": "../../node_modules/bugsnag-react-native/cocoa/BugsnagReactNative.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/bugsnag-react-native/BugsnagReactNative.podspec",
+          "projectPath": "../../node_modules/bugsnag-react-native/cocoa/BugsnagReactNative.xcodeproj",
+          "projectName": "BugsnagReactNative.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+            "libz.tbd"
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/bugsnag-react-native/android",
+          "folder": "../../node_modules/bugsnag-react-native",
+          "packageImportPath": "import com.bugsnag.BugsnagReactNative;",
+          "packageInstance": "BugsnagReactNative.getPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-autogrow-textinput": {
+      "root": "../../node_modules/react-native-autogrow-textinput",
+      "name": "react-native-autogrow-textinput",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-autogrow-textinput/ios",
+          "folder": "../../node_modules/react-native-autogrow-textinput",
+          "pbxprojPath": "../../node_modules/react-native-autogrow-textinput/ios/AutoGrowTextInput.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-autogrow-textinput/ReactNativeAutogrowTextinput.podspec",
+          "projectPath": "../../node_modules/react-native-autogrow-textinput/ios/AutoGrowTextInput.xcodeproj",
+          "projectName": "AutoGrowTextInput.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-autogrow-textinput/android",
+          "folder": "../../node_modules/react-native-autogrow-textinput",
+          "packageImportPath": "import com.wix.autogrowtextinput.AutoGrowTextInputPackage;",
+          "packageInstance": "new AutoGrowTextInputPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-bootsplash": {
+      "root": "../../node_modules/react-native-bootsplash",
+      "name": "react-native-bootsplash",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-bootsplash/ios",
+          "folder": "../../node_modules/react-native-bootsplash",
+          "pbxprojPath": "../../node_modules/react-native-bootsplash/ios/RNBootSplash.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-bootsplash/RNBootSplash.podspec",
+          "projectPath": "../../node_modules/react-native-bootsplash/ios/RNBootSplash.xcodeproj",
+          "projectName": "RNBootSplash.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-bootsplash/android",
+          "folder": "../../node_modules/react-native-bootsplash",
+          "packageImportPath": "import com.zoontek.rnbootsplash.RNBootSplashPackage;",
+          "packageInstance": "new RNBootSplashPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-config": {
+      "root": "../../node_modules/react-native-config",
+      "name": "react-native-config",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-config/ios",
+          "folder": "../../node_modules/react-native-config",
+          "pbxprojPath": "../../node_modules/react-native-config/ios/ReactNativeConfig.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-config/react-native-config.podspec",
+          "projectPath": "../../node_modules/react-native-config/ios/ReactNativeConfig.xcodeproj",
+          "projectName": "ReactNativeConfig.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-config/android",
+          "folder": "../../node_modules/react-native-config",
+          "packageImportPath": "import com.lugg.ReactNativeConfig.ReactNativeConfigPackage;",
+          "packageInstance": "new ReactNativeConfigPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-contacts": {
+      "root": "../../node_modules/react-native-contacts",
+      "name": "react-native-contacts",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-contacts/ios",
+          "folder": "../../node_modules/react-native-contacts",
+          "pbxprojPath": "../../node_modules/react-native-contacts/ios/RCTContacts.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-contacts/react-native-contacts.podspec",
+          "projectPath": "../../node_modules/react-native-contacts/ios/RCTContacts.xcodeproj",
+          "projectName": "RCTContacts.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-contacts/android",
+          "folder": "../../node_modules/react-native-contacts",
+          "packageImportPath": "import com.rt2zz.reactnativecontacts.ReactNativeContacts;",
+          "packageInstance": "new ReactNativeContacts()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-date-picker": {
+      "root": "../../node_modules/react-native-date-picker",
+      "name": "react-native-date-picker",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-date-picker/ios",
+          "folder": "../../node_modules/react-native-date-picker",
+          "pbxprojPath": "../../node_modules/react-native-date-picker/ios/RNDatePicker.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-date-picker/react-native-date-picker.podspec",
+          "projectPath": "../../node_modules/react-native-date-picker/ios/RNDatePicker.xcodeproj",
+          "projectName": "RNDatePicker.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-date-picker/android",
+          "folder": "../../node_modules/react-native-date-picker",
+          "packageImportPath": "import com.henninghall.date_picker.DatePickerPackage;",
+          "packageInstance": "new DatePickerPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-geolocation-service": {
+      "root": "../../node_modules/react-native-geolocation-service",
+      "name": "react-native-geolocation-service",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-geolocation-service/ios",
+          "folder": "../../node_modules/react-native-geolocation-service",
+          "pbxprojPath": "../../node_modules/react-native-geolocation-service/ios/RNFusedLocation.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-geolocation-service/react-native-geolocation-service.podspec",
+          "projectPath": "../../node_modules/react-native-geolocation-service/ios/RNFusedLocation.xcodeproj",
+          "projectName": "RNFusedLocation.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-geolocation-service/android",
+          "folder": "../../node_modules/react-native-geolocation-service",
+          "packageImportPath": "import com.agontuk.RNFusedLocation.RNFusedLocationPackage;",
+          "packageInstance": "new RNFusedLocationPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-gesture-handler": {
+      "root": "../../node_modules/react-native-gesture-handler",
+      "name": "react-native-gesture-handler",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-gesture-handler/ios",
+          "folder": "../../node_modules/react-native-gesture-handler",
+          "pbxprojPath": "../../node_modules/react-native-gesture-handler/ios/RNGestureHandler.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-gesture-handler/RNGestureHandler.podspec",
+          "projectPath": "../../node_modules/react-native-gesture-handler/ios/RNGestureHandler.xcodeproj",
+          "projectName": "RNGestureHandler.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-gesture-handler/android",
+          "folder": "../../node_modules/react-native-gesture-handler",
+          "packageImportPath": "import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;",
+          "packageInstance": "new RNGestureHandlerPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-get-random-values": {
+      "root": "../../node_modules/react-native-get-random-values",
+      "name": "react-native-get-random-values",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-get-random-values/ios",
+          "folder": "../../node_modules/react-native-get-random-values",
+          "pbxprojPath": "../../node_modules/react-native-get-random-values/ios/RNGetRandomValues.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-get-random-values/react-native-get-random-values.podspec",
+          "projectPath": "../../node_modules/react-native-get-random-values/ios/RNGetRandomValues.xcodeproj",
+          "projectName": "RNGetRandomValues.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-get-random-values/android",
+          "folder": "../../node_modules/react-native-get-random-values",
+          "packageImportPath": "import org.linusu.RNGetRandomValuesPackage;",
+          "packageInstance": "new RNGetRandomValuesPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-image-crop-picker": {
+      "root": "../../node_modules/react-native-image-crop-picker",
+      "name": "react-native-image-crop-picker",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-image-crop-picker/ios",
+          "folder": "../../node_modules/react-native-image-crop-picker",
+          "pbxprojPath": "../../node_modules/react-native-image-crop-picker/ios/imageCropPicker.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-image-crop-picker/RNImageCropPicker.podspec",
+          "projectPath": "../../node_modules/react-native-image-crop-picker/ios/imageCropPicker.xcodeproj",
+          "projectName": "imageCropPicker.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-image-crop-picker/android",
+          "folder": "../../node_modules/react-native-image-crop-picker",
+          "packageImportPath": "import com.reactnative.ivpusic.imagepicker.PickerPackage;",
+          "packageInstance": "new PickerPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-linear-gradient": {
+      "root": "../../node_modules/react-native-linear-gradient",
+      "name": "react-native-linear-gradient",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-linear-gradient",
+          "folder": "../../node_modules/react-native-linear-gradient",
+          "pbxprojPath": "../../node_modules/react-native-linear-gradient/BVLinearGradient.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-linear-gradient/BVLinearGradient.podspec",
+          "projectPath": "../../node_modules/react-native-linear-gradient/BVLinearGradient.xcodeproj",
+          "projectName": "BVLinearGradient.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-linear-gradient/android",
+          "folder": "../../node_modules/react-native-linear-gradient",
+          "packageImportPath": "import com.BV.LinearGradient.LinearGradientPackage;",
+          "packageInstance": "new LinearGradientPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-localize": {
+      "root": "../../node_modules/react-native-localize",
+      "name": "react-native-localize",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-localize/ios",
+          "folder": "../../node_modules/react-native-localize",
+          "pbxprojPath": "../../node_modules/react-native-localize/ios/RNLocalize.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-localize/RNLocalize.podspec",
+          "projectPath": "../../node_modules/react-native-localize/ios/RNLocalize.xcodeproj",
+          "projectName": "RNLocalize.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-localize/android",
+          "folder": "../../node_modules/react-native-localize",
+          "packageImportPath": "import com.reactcommunity.rnlocalize.RNLocalizePackage;",
+          "packageInstance": "new RNLocalizePackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-maps": {
+      "root": "../../node_modules/react-native-maps",
+      "name": "react-native-maps",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-maps/lib/ios",
+          "folder": "../../node_modules/react-native-maps",
+          "pbxprojPath": "../../node_modules/react-native-maps/lib/ios/AirMaps.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-maps/react-native-maps.podspec",
+          "projectPath": "../../node_modules/react-native-maps/lib/ios/AirMaps.xcodeproj",
+          "projectName": "AirMaps.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-maps/lib/android",
+          "folder": "../../node_modules/react-native-maps",
+          "packageImportPath": "import com.airbnb.android.react.maps.MapsPackage;",
+          "packageInstance": "new MapsPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-notifications": {
+      "root": "../../node_modules/react-native-notifications",
+      "name": "react-native-notifications",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-notifications/lib/ios",
+          "folder": "../../node_modules/react-native-notifications",
+          "pbxprojPath": "../../node_modules/react-native-notifications/lib/ios/RNNotifications.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-notifications/react-native-notifications.podspec",
+          "projectPath": "../../node_modules/react-native-notifications/lib/ios/RNNotifications.xcodeproj",
+          "projectName": "RNNotifications.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-notifications/lib/android/app",
+          "folder": "../../node_modules/react-native-notifications",
+          "packageImportPath": "import com.wix.reactnativenotifications.RNNotificationsPackage;",
+          "packageInstance": "new RNNotificationsPackage(reactNativeHost.getApplication())"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-permissions": {
+      "root": "../../node_modules/react-native-permissions",
+      "name": "react-native-permissions",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-permissions/ios",
+          "folder": "../../node_modules/react-native-permissions",
+          "pbxprojPath": "../../node_modules/react-native-permissions/ios/RNPermissions.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-permissions/RNPermissions.podspec",
+          "projectPath": "../../node_modules/react-native-permissions/ios/RNPermissions.xcodeproj",
+          "projectName": "RNPermissions.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-permissions/android",
+          "folder": "../../node_modules/react-native-permissions",
+          "packageImportPath": "import com.reactnativecommunity.rnpermissions.RNPermissionsPackage;",
+          "packageInstance": "new RNPermissionsPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-reanimated": {
+      "root": "../../node_modules/react-native-reanimated",
+      "name": "react-native-reanimated",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-reanimated/ios",
+          "folder": "../../node_modules/react-native-reanimated",
+          "pbxprojPath": "../../node_modules/react-native-reanimated/ios/RNReanimated.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-reanimated/RNReanimated.podspec",
+          "projectPath": "../../node_modules/react-native-reanimated/ios/RNReanimated.xcodeproj",
+          "projectName": "RNReanimated.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-reanimated/android",
+          "folder": "../../node_modules/react-native-reanimated",
+          "packageImportPath": "import com.swmansion.reanimated.ReanimatedPackage;",
+          "packageInstance": "new ReanimatedPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-safe-area-context": {
+      "root": "../../node_modules/react-native-safe-area-context",
+      "name": "react-native-safe-area-context",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-safe-area-context/ios",
+          "folder": "../../node_modules/react-native-safe-area-context",
+          "pbxprojPath": "../../node_modules/react-native-safe-area-context/ios/SafeAreaView.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
+          "projectPath": "../../node_modules/react-native-safe-area-context/ios/SafeAreaView.xcodeproj",
+          "projectName": "SafeAreaView.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-safe-area-context/android",
+          "folder": "../../node_modules/react-native-safe-area-context",
+          "packageImportPath": "import com.th3rdwave.safeareacontext.SafeAreaContextPackage;",
+          "packageInstance": "new SafeAreaContextPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-screens": {
+      "root": "../../node_modules/react-native-screens",
+      "name": "react-native-screens",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-screens/ios",
+          "folder": "../../node_modules/react-native-screens",
+          "pbxprojPath": "../../node_modules/react-native-screens/ios/RNScreens.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-screens/RNScreens.podspec",
+          "projectPath": "../../node_modules/react-native-screens/ios/RNScreens.xcodeproj",
+          "projectName": "RNScreens.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-screens/android",
+          "folder": "../../node_modules/react-native-screens",
+          "packageImportPath": "import com.swmansion.rnscreens.RNScreensPackage;",
+          "packageInstance": "new RNScreensPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-svg": {
+      "root": "../../node_modules/react-native-svg",
+      "name": "react-native-svg",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-svg/ios",
+          "folder": "../../node_modules/react-native-svg",
+          "pbxprojPath": "../../node_modules/react-native-svg/ios/RNSVG.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-svg/RNSVG.podspec",
+          "projectPath": "../../node_modules/react-native-svg/ios/RNSVG.xcodeproj",
+          "projectName": "RNSVG.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-svg/android",
+          "folder": "../../node_modules/react-native-svg",
+          "packageImportPath": "import com.horcrux.svg.SvgPackage;",
+          "packageInstance": "new SvgPackage()"
+        }
+      },
+      "assets": [
+
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    },
+    "react-native-vector-icons": {
+      "root": "../../node_modules/react-native-vector-icons",
+      "name": "react-native-vector-icons",
+      "platforms": {
+        "ios": {
+          "sourceDir": "../../node_modules/react-native-vector-icons",
+          "folder": "../../node_modules/react-native-vector-icons",
+          "pbxprojPath": "../../node_modules/react-native-vector-icons/RNVectorIcons.xcodeproj/project.pbxproj",
+          "podfile": null,
+          "podspecPath": "../../node_modules/react-native-vector-icons/RNVectorIcons.podspec",
+          "projectPath": "../../node_modules/react-native-vector-icons/RNVectorIcons.xcodeproj",
+          "projectName": "RNVectorIcons.xcodeproj",
+          "libraryFolder": "Libraries",
+          "sharedLibraries": [
+
+          ],
+          "plist": [
+
+          ],
+          "scriptPhases": [
+
+          ]
+        },
+        "android": {
+          "sourceDir": "../../node_modules/react-native-vector-icons/android",
+          "folder": "../../node_modules/react-native-vector-icons",
+          "packageImportPath": "import com.oblador.vectoricons.VectorIconsPackage;",
+          "packageInstance": "new VectorIconsPackage()"
+        }
+      },
+      "assets": [
+        "../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+        "../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"
+      ],
+      "hooks": {
+      },
+      "params": [
+
+      ]
+    }
+  },
+  "commands": [
+    {
+      "name": "log-ios",
+      "description": "starts iOS device syslog tail"
+    },
+    {
+      "name": "run-ios",
+      "description": "builds your app and starts it on iOS simulator",
+      "examples": [
+        {
+          "desc": "Run on a different simulator, e.g. iPhone SE",
+          "cmd": "react-native run-ios --simulator \"iPhone SE\""
+        },
+        {
+          "desc": "Pass a non-standard location of iOS directory",
+          "cmd": "react-native run-ios --project-path \"./app/ios\""
+        },
+        {
+          "desc": "Run on a connected device, e.g. Max's iPhone",
+          "cmd": "react-native run-ios --device \"Max's iPhone\""
+        },
+        {
+          "desc": "Run on the AppleTV simulator",
+          "cmd": "react-native run-ios --simulator \"Apple TV\"  --scheme \"helloworld-tvOS\""
+        }
+      ],
+      "options": [
+        {
+          "name": "--simulator [string]",
+          "description": "Explicitly set simulator to use. Optionally include iOS version between parenthesis at the end to match an exact version: \"iPhone 6 (10.0)\"",
+          "default": "iPhone 11"
+        },
+        {
+          "name": "--configuration [string]",
+          "description": "Explicitly set the scheme configuration to use",
+          "default": "Debug"
+        },
+        {
+          "name": "--scheme [string]",
+          "description": "Explicitly set Xcode scheme to use"
+        },
+        {
+          "name": "--project-path [string]",
+          "description": "Path relative to project root where the Xcode project (.xcodeproj) lives.",
+          "default": "ios"
+        },
+        {
+          "name": "--device [string]",
+          "description": "Explicitly set device to use by name.  The value is not required if you have a single device connected."
+        },
+        {
+          "name": "--udid [string]",
+          "description": "Explicitly set device to use by udid"
+        },
+        {
+          "name": "--no-packager",
+          "description": "Do not launch packager while building"
+        },
+        {
+          "name": "--verbose",
+          "description": "Do not use xcpretty even if installed"
+        },
+        {
+          "name": "--port [number]",
+          "default": 8081
+        },
+        {
+          "name": "--terminal [string]",
+          "description": "Launches the Metro Bundler in a new window using the specified terminal path."
+        }
+      ]
+    },
+    {
+      "name": "log-android",
+      "description": "starts logkitty"
+    },
+    {
+      "name": "run-android",
+      "description": "builds your app and starts it on a connected Android emulator or device",
+      "options": [
+        {
+          "name": "--root [string]",
+          "description": "[DEPRECATED - root is discovered automatically] Override the root directory for the android build (which contains the android directory)",
+          "default": ""
+        },
+        {
+          "name": "--variant [string]",
+          "description": "Specify your app's build variant",
+          "default": "debug"
+        },
+        {
+          "name": "--appFolder [string]",
+          "description": "[DEPRECATED – use \"project.android.appName\" in react-native.config.js] Specify a different application folder name for the android source. If not, we assume is \"app\""
+        },
+        {
+          "name": "--appId [string]",
+          "description": "Specify an applicationId to launch after build. If not specified, `package` from AndroidManifest.xml will be used.",
+          "default": ""
+        },
+        {
+          "name": "--appIdSuffix [string]",
+          "description": "Specify an applicationIdSuffix to launch after build.",
+          "default": ""
+        },
+        {
+          "name": "--main-activity [string]",
+          "description": "Name of the activity to start",
+          "default": "MainActivity"
+        },
+        {
+          "name": "--deviceId [string]",
+          "description": "builds your app and starts it on a specific device/simulator with the given device id (listed by running \"adb devices\" on the command line)."
+        },
+        {
+          "name": "--no-packager",
+          "description": "Do not launch packager while building"
+        },
+        {
+          "name": "--port [number]",
+          "default": 8081
+        },
+        {
+          "name": "--terminal [string]",
+          "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
+          "default": "vscode"
+        },
+        {
+          "name": "--tasks [list]",
+          "description": "Run custom Gradle tasks. By default it's \"installDebug\""
+        },
+        {
+          "name": "--no-jetifier",
+          "description": "Do not run \"jetifier\" – the AndroidX transition tool. By default it runs before Gradle to ease working with libraries that don't support AndroidX yet. See more at: https://www.npmjs.com/package/jetifier.",
+          "default": false
+        }
+      ]
+    }
+  ],
+  "assets": [
+
+  ],
+  "platforms": {
+    "ios": {
+    },
+    "android": {
+    }
+  },
+  "project": {
+    "ios": {
+      "sourceDir": "./",
+      "folder": "../..",
+      "pbxprojPath": "../ReactNativeStarter.xcodeproj/project.pbxproj",
+      "podfile": "./",
+      "podspecPath": null,
+      "projectPath": "../ReactNativeStarter.xcodeproj",
+      "projectName": "ReactNativeStarter.xcodeproj",
+      "libraryFolder": "Libraries",
+      "sharedLibraries": [
+
+      ],
+      "plist": [
+
+      ],
+      "scriptPhases": [
+
+      ]
+    },
+    "android": {
+      "sourceDir": "../../android",
+      "isFlat": true,
+      "folder": "../..",
+      "stringsPath": "../../android/app/src/main/res/values/strings.xml",
+      "manifestPath": "../../android/app/src/main/AndroidManifest.xml",
+      "buildGradlePath": "../../android/build.gradle",
+      "settingsGradlePath": "../../android/settings.gradle",
+      "assetsPath": "../../android/app/src/main/assets",
+      "mainFilePath": "../../android/app/src/main/java/com/reactnativestarter/MainApplication.java",
+      "packageName": "com.reactnativestarter",
+      "packageFolder": "com/reactnativestarter",
+      "appName": "app"
+    }
+  }
+}
