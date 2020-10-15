@@ -24,7 +24,11 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+import Config from "react-native-config";
+
 import FastImage from 'react-native-fast-image';
+import Icon from 'react-native-vector-icons/FontAwesome';
+Icon.loadFont();
 
 const App: () => React$Node = () => {
   return (
@@ -32,6 +36,7 @@ const App: () => React$Node = () => {
       <StatusBar barStyle="dark-content" />
       <SafeAreaView>
         <ScrollView
+          contentContainerStyle={{padding: 20}}
           contentInsetAdjustmentBehavior="automatic"
           style={styles.scrollView}>
           <Header />
@@ -43,39 +48,16 @@ const App: () => React$Node = () => {
             style={{height: 100, width: 100}}
             source={{uri: 'https://loremflickr.com/320/240'}}
           />
-          {global.HermesInternal == null ? null : (
-            <View style={styles.engine}>
-              <Text style={styles.footer}>Engine: Hermes</Text>
-            </View>
-          )}
-          <View style={styles.body}>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Step One</Text>
-              <Text style={styles.sectionDescription}>
-                Edit <Text style={styles.highlight}>App.js</Text> to change this
-                screen and then come back to see your edits.
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>See Your Changes</Text>
-              <Text style={styles.sectionDescription}>
-                <ReloadInstructions />
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Debug</Text>
-              <Text style={styles.sectionDescription}>
-                <DebugInstructions />
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Learn More</Text>
-              <Text style={styles.sectionDescription}>
-                Read the docs to discover what to do next:
-              </Text>
-            </View>
-            <LearnMoreLinks />
-          </View>
+          <FastImage
+            style={{height: 100, width: 100}}
+            source={{uri: 'https://loremflickr.com/320/240'}}
+          />
+          <Text>This should contain Hello World: "{Config.FOO}"</Text>
+          <Icon.Button name="facebook" backgroundColor="#3b5998">
+            <Text style={{ fontFamily: 'Arial', fontSize: 15 }}>
+              Login with Facebook
+            </Text>
+          </Icon.Button>
         </ScrollView>
       </SafeAreaView>
     </>
